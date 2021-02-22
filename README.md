@@ -5,4 +5,4 @@
 ### Connect with me.
 <a href='linkedin.com/in/matt--anderson/'>LinkedIn</a>
 
-<a href="mailto: manderson3600@gmail.com?subject=Github">Send Email</a>
+<a href="mailto:manderson3600@gmail.com?subject=Github">Send Email</a>
