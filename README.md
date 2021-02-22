@@ -5,4 +5,4 @@
 ### Connect with me.
 <a href='linkedin.com/in/matt--anderson/'>LinkedIn</a>
 
-<a>E📪 - manderson3600@gmail.com</a>
+<a>📪 - manderson3600@gmail.com</a>
