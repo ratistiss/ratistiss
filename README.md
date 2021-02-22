@@ -1,7 +1,10 @@
-### Hi there 👋
+### Thanks for stopping by.
 
 <!--
 **ratistiss/ratistiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Ratistiss's github stats](https://github-readme-stats.vercel.app/api?username=ratistiss&hide=stars,prs,issues,contribs&show_icons=true&count_private=true&theme=radical)](https://github.com/ratistiss/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
