@@ -5,4 +5,4 @@
 ### Connect with me.
 <a> Social - <a href='https://www.linkedin.com/in/matt--anderson/'>LinkedIn</a></a>
 
-<a>📪 - <a href='mailto:manderson3600@gmail.com?subject=Re:Github'></a></a>
+<a>📪 - manderson3600@gmail.com</a>
