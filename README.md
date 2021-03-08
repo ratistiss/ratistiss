@@ -9,5 +9,7 @@
 
 
 ### Current Sites
-<a href='https://www.the-weatherman-mars.com/'>The Weatherman Mars</a>
-<a href='http://164.90.143.154/login'>Trading Stocks</a?
+<ul>
+  <li><a href='https://www.the-weatherman-mars.com/'>The Weatherman Mars</a></li>
+  <li><a href='http://164.90.143.154/login'>Trading Stocks</a></li>
+</ul>
