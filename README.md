@@ -13,3 +13,9 @@
   <li><a href='https://www.the-weatherman-mars.com/'>The Weatherman Mars</a></li>
   <li><a href='http://164.90.143.154/login'>Trading Stocks</a></li>
 </ul>
+
+
+### Resume
+<ul>
+  <li><a href='https://drive.google.com/file/d/1CKpI58TgvSR01jzMWFcnKg3Gbgh1KZyc/view?usp=sharing'>Resume Link</a></li>
+</ul>
