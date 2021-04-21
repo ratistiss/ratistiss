@@ -4,8 +4,8 @@
 
 ### Connect with me.
 <ul>
-  <li><a href='https://drive.google.com/file/d/1CKpI58TgvSR01jzMWFcnKg3Gbgh1KZyc/view?usp=sharing'>Resume</a></li>
-  <li><a href='https://www.linkedin.com/in/matt--anderson/'>LinkedIn</a></li>
+  <li><a href='https://drive.google.com/file/d/1CKpI58TgvSR01jzMWFcnKg3Gbgh1KZyc/view?usp=sharing' target="_blank">Resume</a></li>
+  <li><a href='https://www.linkedin.com/in/matt--anderson/' target="_blank">LinkedIn</a></li>
   <li><a>manderson3600@gmail.com</a></li>
 </ul>
 
